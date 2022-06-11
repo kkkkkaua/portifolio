@@ -1,0 +1,18 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Fira Sans', Arial, sans-serif;
+  color: #141414;
+  margin-bottom: 100rem;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
