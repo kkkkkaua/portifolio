@@ -1,6 +1,7 @@
 @import './header.css';
 @import './global.css';
 @import './intro.css';
+@import './experiencia.css';
 
 * {
   padding: 0;
