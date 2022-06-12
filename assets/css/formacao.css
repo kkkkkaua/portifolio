@@ -34,6 +34,7 @@
 .formacao .subtitulo {
   color: #000;
   max-width: 5ch;
+  padding-top: 5.2rem;
 }
 
 .formacao-txt {
@@ -152,6 +153,7 @@
 
   .formacao .subtitulo {
     color: #fff;
+    padding: 0;
   }
 
   .formacao-txt {
